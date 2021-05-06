@@ -1,8 +1,9 @@
+# Hi, I am ARGHYA! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 ## HEY NOOB CODERS, WELCOME TO MY REPO
 
 ### Profile
 
-- 👋 Hi, I’m Arghya Sarkar** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 👀 I’m interested in Python, Youtube, Linux, DS and ML
 - 🌱 I’m currently learning Python, Bash and Git
 - 📫 Reach me through [Youtube] (https://www.youtube.com/channel/UCyyXcHm8UswsF0cjOX6fMng) or [Mail](codersera.helper.community@gmail.com)
@@ -15,15 +16,17 @@
 ### Programming Languages Known
 
 <a href='#'>
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg">
+  <img src="https://raw.githubusercon>
+83
+tent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg">
 </a>
 
 <a href='#'>
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg">
 </a>
 
 <a href='#'>
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg">
 </a>
 
 <br>
@@ -31,15 +34,15 @@
 ### Currently Learning
 
 <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg">
 </a> 
 
 <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg">
 </a> 
 
 <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/r.svg">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/r.svg">
 </a> 
 
 <br>
@@ -81,6 +84,7 @@
 <br>
 <br>
 
+### Contact Me!
 <a href="https://discordapp.com/users/794984520712847390">
   <img src="https://raw.githubusercontent.com/fenix-hub/ColoredBadges/master/svg/social/discord.svg">
 </a>
