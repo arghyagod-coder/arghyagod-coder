@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in Python, Youtube, Linux, DS and ML
 - 🌱 I’m currently learning Python, Bash and Git
-- 📫 Reach me through [Youtube] (https://www.youtube.com/channel/UCyyXcHm8UswsF0cjOX6fMng) or [Mail](codersera.helper.community@gmail.com)
+- 📫 Reach me through [Youtube](https://www.youtube.com/channel/UCyyXcHm8UswsF0cjOX6fMng) or [Mail](mailto:codersera.helper.community@gmail.com)
 - 🍔 Fond of Pizza, Eggless Choco Cake and Chocolaty stuff
 - 💻 Code is LIFE, Code is AFTERLIFE. 
 - 🖥️ Operating System Experience- Windows 10 64-bit (Secondary Boot), Ubuntu 20.04 (Used till Feb 2021), Mint 20.01 (Current Main OS)
@@ -61,7 +61,7 @@
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg">
 </a> 
 <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/services/npm.svg">
+    <img src="https://raw.githubusercontent.com//MikeCodesDotNET/ColoredBadges/master/svg/dev/services/npm.svgg">
 </a> 
 <a href="#">
     <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/devices/pc.svg">
