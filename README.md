@@ -61,9 +61,6 @@
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg">
 </a> 
 <a href="#">
-    <img src="https://raw.githubusercontent.com//MikeCodesDotNET/ColoredBadges/master/svg/dev/services/npm.svgg">
-</a> 
-<a href="#">
     <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/devices/pc.svg">
 </a> 
 <a href="#">
