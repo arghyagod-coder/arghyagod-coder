@@ -1,15 +1,17 @@
+ ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+ 
 # Hi, I am ARGHYA! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## Hi fellow people, welcome to my Github Repository
 
 ### Profile
 
-- 👀 I’m interested in Python, Youtube, Linux, DS and ML
-- 🌱 I’m currently learning Python, Bash and Git
-- 📫 Reach me through [Youtube](https://www.youtube.com/channel/UCyyXcHm8UswsF0cjOX6fMng) or [Mail](mailto:codersera.helper.community@gmail.com)
-- 🍔 Fond of Pizza, Eggless Choco Cake and Chocolaty stuff
-- 💻 Code is LIFE, Code is AFTERLIFE. 
-- 🖥️ Operating System Experience- Windows 10 64-bit (Used till Jan 2021), Ubuntu 20.04 (Used till Feb 2021), Mint 20.01 (Used till April 2021), Arch Linux and Manjaro (Current Boots). Other OSs I have used and tried: Garuda 🦅, Fedora 🎩, and more 22 Linux Distributions.
+- 👀 I’m interested in Python 🐍 , Youtube, Linux, DS and ML
+- 🌱 I’m currently learning Golang 🥽 , Bootstrap 👢 , Bash 🐚 and C++ ➕
+- 📫 Reach me through [Youtube](https://www.youtube.com/channel/UCyyXcHm8UswsF0cjOX6fMng) 📹 or [Mail](mailto:codersera.helper.community@gmail.com) 💌
+- 🍔 Fond of Pizza 🍕 , Eggless Choco Cake 🍰 and Chocolaty stuff 🍫
+- 💻 Code is LIFE, Code is AFTERLIFE. 💂‍♂️
+- 🖥️ Operating System Experience- Windows 10 64-bit 🪟 (Used till Jan 2021), Ubuntu 20.04 🍊 (Used till Feb 2021), Mint 20.01 🥬 (Used till April 2021), Arch Linux and Manjaro 🍀 (Current Boots). Other OSs I have used and tried: Garuda 🦅, Fedora 🎩, and more 22 Linux Distributions.
 
 <a href='#'>
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/pronouns/hehim.svg">
