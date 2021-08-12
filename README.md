@@ -1,6 +1,6 @@
 # Hi, I am ARGHYA! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## HEY NOOB CODERS, WELCOME TO MY REPO
+## Hi fellow people, welcome to my Github Repository
 
 ### Profile
 
@@ -9,7 +9,7 @@
 - 📫 Reach me through [Youtube](https://www.youtube.com/channel/UCyyXcHm8UswsF0cjOX6fMng) or [Mail](mailto:codersera.helper.community@gmail.com)
 - 🍔 Fond of Pizza, Eggless Choco Cake and Chocolaty stuff
 - 💻 Code is LIFE, Code is AFTERLIFE. 
-- 🖥️ Operating System Experience- Windows 10 64-bit (Secondary Boot), Ubuntu 20.04 (Used till Feb 2021), Mint 20.01 (Current Main OS)
+- 🖥️ Operating System Experience- Windows 10 64-bit (Used till Jan 2021), Ubuntu 20.04 (Used till Feb 2021), Mint 20.01 (Used till April 2021), Arch Linux and Manjaro (Current Boots). Other OSs I have used and tried: Garuda 🦅, Fedora 🎩, and more 22 Linux Distributions.
 
 <a href='#'>
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/pronouns/hehim.svg">
@@ -101,6 +101,8 @@
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/stackoverflow.svg">
 </a>
 
+### My Laptop Features
+
 <a href='#'>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
 </a>
@@ -111,10 +113,6 @@
 
 <a href='#'>
   <img src="https://img.shields.io/badge/AMD-Radeon_R2-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
-</a>
-
-<a href='#'>
-  <img src="https://img.shields.io/badge/Linux-Manjaro-1abc9c.svg">
 </a>
 
 <br>
@@ -132,10 +130,9 @@
 ### Contact Me!
 <a href="https://discordapp.com/users/794984520712847390">
   <img src="https://raw.githubusercontent.com/fenix-hub/ColoredBadges/master/svg/social/discord.svg">
-</a>
-<a href="hmailto:arghyasarkar.nolan@gmail.com">
+</a><a href="hmailto:arghyasarkar.nolan@gmail.com">
   <img src="https://raw.githubusercontent.com/fenix-hub/ColoredBadges/master/svg/social/gmail.svg">
-</a>
+ </a>
 
 <br>
 <br>
