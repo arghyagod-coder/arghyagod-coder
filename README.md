@@ -1,4 +1,4 @@
- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi,%20I%20am%20Arghya!&fontSize=70)
+ ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi,%20I%20am%20Arghya!&fontSize=50)
  
 <!-- # Hi, I am ARGHYA! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 
@@ -140,7 +140,7 @@
 <br>
 
 
- ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=footer&text=Thank%20You%20For%20Seeing%20My%20Profile&fontSize=70)
+ ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=footer&text=Thank%20You%20For%20Seeing%20My%20Profile&fontSize=30)
 <!---
 arghyagod-coder/arghyagod-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
