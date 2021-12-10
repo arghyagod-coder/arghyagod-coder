@@ -10,7 +10,7 @@
 - 📫 Reach me through [Youtube](https://www.youtube.com/channel/UCyyXcHm8UswsF0cjOX6fMng) 📹, [Discord](https://tinyurl.com/calinixdisc) or [Mail](mailto:codersera.helper.community@gmail.com) 💌
 - 🍔 Fond of Linux Salad, Pasta Programming, Linux Burger and Arch Pizza
 - 💻 Code is LIFE, Code is AFTERLIFE. 💂‍♂️
-- 🖥️ Operating System Experience- Windows 10 64-bit 🪟 (Used till Jan 2021), Ubuntu 20.04 🍊 (Used till Feb 2021), Mint 20.01 🥬 (Used till April 2021), Manjaro (), Arch Linux and ArcoLinux 🍀 (Current Boots). Other OSs I have used and tried: Garuda 🦅, Fedora 🎩, and more 22 Linux Distributions.
+- 🖥️ Operating System Experience- Windows 10 64-bit 🪟 (Used till Jan 2021), Ubuntu 20.04 🍊 (Used till Feb 2021), Mint 20.01 🥬 (Used till April 2021), Manjaro (till September 2021), Arch Linux and ArcoLinux 🍀 (Current Boots). Other OSs I have used and tried: Garuda 🦅, Fedora 🎩, and more 22 Linux Distributions.
 
 <a href='#'>
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/pronouns/hehim.svg">
