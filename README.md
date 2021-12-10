@@ -1,17 +1,16 @@
- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi,%20I%20am%20Arghya!&fontSize=50)
- 
-<!-- # Hi, I am ARGHYA! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=400&section=header&text=Hi%20Im%20Arghya!&fontSize=93" />
 
-## Hi fellow people, welcome to my Github Repository
+## Hi fellow khoders, welcome to my Github Repository
 
 ### Profile
 
-- 👀 I’m interested in Python 🐍 , Youtube, Linux, DS and ML
-- 🌱 I’m currently learning Golang 🥽 , Bootstrap 👢 , Bash 🐚 and C++ ➕
-- 📫 Reach me through [Youtube](https://www.youtube.com/channel/UCyyXcHm8UswsF0cjOX6fMng) 📹 or [Mail](mailto:codersera.helper.community@gmail.com) 💌
-- 🍔 Fond of Pizza 🍕 , Eggless Choco Cake 🍰 and Chocolaty stuff 🍫
+- CEO, Project Lead and Founder of [the Calinix Project](https://get.calinix.tech)
+- 👀 I’m interested in Linux, Linux, Linux and Linux.
+- 🌱 I’m currently learning TypeScript, Cobra and SQL
+- 📫 Reach me through [Youtube](https://www.youtube.com/channel/UCyyXcHm8UswsF0cjOX6fMng) 📹, [Discord](https://tinyurl.com/calinixdisc) or [Mail](mailto:codersera.helper.community@gmail.com) 💌
+- 🍔 Fond of Linux Salad, Pasta Programming, Linux Burger and Arch Pizza
 - 💻 Code is LIFE, Code is AFTERLIFE. 💂‍♂️
-- 🖥️ Operating System Experience- Windows 10 64-bit 🪟 (Used till Jan 2021), Ubuntu 20.04 🍊 (Used till Feb 2021), Mint 20.01 🥬 (Used till April 2021), Arch Linux and Manjaro 🍀 (Current Boots). Other OSs I have used and tried: Garuda 🦅, Fedora 🎩, and more 22 Linux Distributions.
+- 🖥️ Operating System Experience- Windows 10 64-bit 🪟 (Used till Jan 2021), Ubuntu 20.04 🍊 (Used till Feb 2021), Mint 20.01 🥬 (Used till April 2021), Manjaro (), Arch Linux and ArcoLinux 🍀 (Current Boots). Other OSs I have used and tried: Garuda 🦅, Fedora 🎩, and more 22 Linux Distributions.
 
 <a href='#'>
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/pronouns/hehim.svg">
@@ -33,6 +32,10 @@
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/web.svg">
 </a>
 
+![](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/desktop.svg)
+
+![](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/tools.svg)
+
 <br>
 
 ### Programming Languages Known
@@ -50,28 +53,17 @@
 </a>
 
 <a href='#'>
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg">
-</a>
-
-<a href='#'>
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg">
-</a>
-
-<a href='#'>
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg">
-</a>
-
-<a href='#'>
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg">
 </a>
+
 
 <br>
 
 ### Currently Learning
 
-<a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg">
-</a> 
+![](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/react.svg)
+
+![](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/qt.svg)
 
 <br>
 <br>
@@ -91,31 +83,23 @@
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg">
 </a> 
 
+![VirtualBox](https://img.shields.io/static/v1?style=for-the-badge&message=VirtualBox&color=183A61&logo=VirtualBox&logoColor=FFFFFF&label=)
+
+ ![Arch Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Arch+Linux&color=1793D1&logo=Arch+Linux&logoColor=FFFFFF&label=)
+ 
+ ![awesomeWM](https://img.shields.io/static/v1?style=for-the-badge&message=awesomeWM&color=535D6C&logo=awesomeWM&logoColor=FFFFFF&label=)
+ 
+ ![Blogger](https://img.shields.io/static/v1?style=for-the-badge&message=Blogger&color=FF5722&logo=Blogger&logoColor=FFFFFF&label=)
+ 
+![Brave](https://img.shields.io/static/v1?style=for-the-badge&message=Brave&color=FB542B&logo=Brave&logoColor=FFFFFF&label=)
+ 
 <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/streaming/youtube.svg">
 </a> 
 
 <a href='#'>
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/stackoverflow.svg">
-</a>
-
-<a href='#'>
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/stackoverflow.svg">
-</a>
-
-### My Laptop Features
-
-<a href='#'>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
-</a>
-
-<a href='#'>
-  <img src="https://img.shields.io/badge/AMD-Athlon_Silver_3050U-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
-</a>
-
-<a href='#'>
-  <img src="https://img.shields.io/badge/AMD-Radeon_R2-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
-</a>
+</a> 
 
 <br>
 <br>
