@@ -45,10 +45,6 @@
 </a>
 
 <a href='#'>
-  <img src="https://raw.githubusercontent.com/Railly/ColoredBadges/master/svg/dev/languages/cpp.svg">
-</a>
-
-<a href='#'>
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/go.svg">
 </a>
 
