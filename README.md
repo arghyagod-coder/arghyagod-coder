@@ -1,3 +1,4 @@
+[![](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/arghyagod-coder)
 <h1 align="center">Hi there, I'm <a" target="_blank">Arghya Sarkar</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
@@ -10,7 +11,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently finishing up K&R's  <a href="https://kremlin.cc/k&r.pdf">C Programming book</a>.</li>
+<li>🔭 I’m currently coping with my grade 9 annual examinations. Will return to React and C soon enough.</a>.</li>
 <li>🧐 Learning about <strong>system architecture</strong>, <strong>system design</strong>, and a bit of <strong>ML/AI</strong>.</li>
 <li>🏆 Emerged as a winner in 3 Inter-School Fests</li>
 <li>🖥️ Keen Hackathonist. I have been involved in organising the All-India hackathon EconHacks Bangalore and was present in the design team.</li>
