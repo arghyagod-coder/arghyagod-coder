@@ -46,7 +46,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ### Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=arghyagod-coder&theme=graywhite&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arghyagod-coder&theme=graywhite&hide_border=false&include_all_commits=false&count_private=true&layout=compact&hide=html,css)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arghyagod-coder&theme=graywhite&hide_border=false&include_all_commits=false&count_private=true&layout=compact&hide=html,css,php,lua,jupyter%20notebook,haskell)
 
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arghyagod-coder&hide=issues&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
